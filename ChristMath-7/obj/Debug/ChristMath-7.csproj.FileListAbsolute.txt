@@ -1,0 +1,30 @@
+C:\Users\Dell\source\repos\ChristMath-7\bin\Debug\ChristMath-7.exe.config
+C:\Users\Dell\source\repos\ChristMath-7\bin\Debug\ChristMath-7.exe
+C:\Users\Dell\source\repos\ChristMath-7\bin\Debug\ChristMath-7.pdb
+C:\Users\Dell\source\repos\ChristMath-7\obj\Debug\ChristMath-7.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ChristMath-7\obj\Debug\ChristMath_7.Form1.resources
+C:\Users\Dell\source\repos\ChristMath-7\obj\Debug\ChristMath_7.Properties.Resources.resources
+C:\Users\Dell\source\repos\ChristMath-7\obj\Debug\ChristMath-7.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\ChristMath-7\obj\Debug\ChristMath-7.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ChristMath-7\obj\Debug\ChristMath-7.exe
+C:\Users\Dell\source\repos\ChristMath-7\obj\Debug\ChristMath-7.pdb
+D:\For VS\Repos\ИГПМ\ChristMath-7\bin\Debug\ChristMath-7.exe.config
+D:\For VS\Repos\ИГПМ\ChristMath-7\bin\Debug\ChristMath-7.exe
+D:\For VS\Repos\ИГПМ\ChristMath-7\bin\Debug\ChristMath-7.pdb
+D:\For VS\Repos\ИГПМ\ChristMath-7\obj\Debug\ChristMath-7.csprojAssemblyReference.cache
+D:\For VS\Repos\ИГПМ\ChristMath-7\obj\Debug\ChristMath_7.Form1.resources
+D:\For VS\Repos\ИГПМ\ChristMath-7\obj\Debug\ChristMath_7.Properties.Resources.resources
+D:\For VS\Repos\ИГПМ\ChristMath-7\obj\Debug\ChristMath-7.csproj.GenerateResource.cache
+D:\For VS\Repos\ИГПМ\ChristMath-7\obj\Debug\ChristMath-7.csproj.CoreCompileInputs.cache
+D:\For VS\Repos\ИГПМ\ChristMath-7\obj\Debug\ChristMath-7.exe
+D:\For VS\Repos\ИГПМ\ChristMath-7\obj\Debug\ChristMath-7.pdb
+C:\Users\nktph\Downloads\ChristMath-7\ChristMath-7\bin\Debug\ChristMath-7.exe.config
+C:\Users\nktph\Downloads\ChristMath-7\ChristMath-7\bin\Debug\ChristMath-7.exe
+C:\Users\nktph\Downloads\ChristMath-7\ChristMath-7\bin\Debug\ChristMath-7.pdb
+C:\Users\nktph\Downloads\ChristMath-7\ChristMath-7\obj\Debug\ChristMath-7.csprojAssemblyReference.cache
+C:\Users\nktph\Downloads\ChristMath-7\ChristMath-7\obj\Debug\ChristMath_7.Form1.resources
+C:\Users\nktph\Downloads\ChristMath-7\ChristMath-7\obj\Debug\ChristMath_7.Properties.Resources.resources
+C:\Users\nktph\Downloads\ChristMath-7\ChristMath-7\obj\Debug\ChristMath-7.csproj.GenerateResource.cache
+C:\Users\nktph\Downloads\ChristMath-7\ChristMath-7\obj\Debug\ChristMath-7.csproj.CoreCompileInputs.cache
+C:\Users\nktph\Downloads\ChristMath-7\ChristMath-7\obj\Debug\ChristMath-7.exe
+C:\Users\nktph\Downloads\ChristMath-7\ChristMath-7\obj\Debug\ChristMath-7.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristMath-7", "ChristMath-7.csproj", "{015C7E3B-CEA5-473E-86D0-BB2F57F46B8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{015C7E3B-CEA5-473E-86D0-BB2F57F46B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015C7E3B-CEA5-473E-86D0-BB2F57F46B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015C7E3B-CEA5-473E-86D0-BB2F57F46B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015C7E3B-CEA5-473E-86D0-BB2F57F46B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29130EF7-82FA-4517-B39F-58D4DD2F6580}
+	EndGlobalSection
+EndGlobal
